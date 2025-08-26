@@ -1,3 +1,12 @@
+### LANGKAH 1 
+buka website https://www.tinkercad.com/
+
+### LANGKAH 2
+logim menggunakan akun google masing - masing
+
+### LANGKAH 3 
+klik CREATE
+
 ### ULTRASONIC
 
 | PIN ARDUINO | PIN ULTRASONIC  |
